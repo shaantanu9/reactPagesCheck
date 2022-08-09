@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactPagesCheck/static/css/main.33e89783.css",
+    "main.js": "/reactPagesCheck/static/js/main.6d719445.js",
+    "static/js/787.2ee5c82c.chunk.js": "/reactPagesCheck/static/js/787.2ee5c82c.chunk.js",
+    "index.html": "/reactPagesCheck/index.html",
+    "main.33e89783.css.map": "/reactPagesCheck/static/css/main.33e89783.css.map",
+    "main.6d719445.js.map": "/reactPagesCheck/static/js/main.6d719445.js.map",
+    "787.2ee5c82c.chunk.js.map": "/reactPagesCheck/static/js/787.2ee5c82c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33e89783.css",
+    "static/js/main.6d719445.js"
+  ]
+}
